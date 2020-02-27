@@ -1,0 +1,2 @@
+E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\Definitions.CelesteRemade.h
+E:\Unreal Projects\MyCeleste\CelesteRemade\Source\CelesteRemade\CelesteRemade.h

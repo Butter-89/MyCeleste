@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CelesteRemade.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{03B7E399-40AF-4942-906D-B926F40E2AB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CelesteRemade.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CelesteRemadeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9F6B9779-444B-4EF1-BC7B-0A98D5B3FB1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CelesteRemade">
+      <UniqueIdentifier>{C12D50E3-BF58-4599-B60C-E76E3F86064B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CelesteRemade\CelesteRemade.Build.cs">
+      <Filter>Source\CelesteRemade</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CelesteRemade\CelesteRemade.cpp">
+      <Filter>Source\CelesteRemade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CelesteRemade\CelesteRemade.h">
+      <Filter>Source\CelesteRemade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CelesteRemade\PlayerMovement.cpp">
+      <Filter>Source\CelesteRemade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CelesteRemade\PlayerMovement.h">
+      <Filter>Source\CelesteRemade</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

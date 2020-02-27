@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CelesteRemade-0038.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\CelesteRemadeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\CelesteRemade.cpp.obj"
+"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\PlayerMovement.cpp.obj"
+"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\CelesteRemade.init.gen.cpp.obj"
+"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\PlayerMovement.gen.cpp.obj"
+"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\Default.rc2.res"
+/OUT:"E:\Unreal Projects\MyCeleste\CelesteRemade\Intermediate\Build\Win64\UE4Editor\Development\CelesteRemade\UE4Editor-CelesteRemade-0038.lib"
+/INCLUDE:IMPLEMENT_MODULE_CelesteRemade

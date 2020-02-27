@@ -1,0 +1,3 @@
+E:\Unreal Projects\MyCeleste\CelesteRemade\Source\CelesteRemade\CelesteRemade.Build.cs
+E:\Unreal Projects\MyCeleste\CelesteRemade\Source\CelesteRemade.Target.cs
+E:\Unreal Projects\MyCeleste\CelesteRemade\Source\CelesteRemadeEditor.Target.cs
